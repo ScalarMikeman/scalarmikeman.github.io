@@ -26,10 +26,10 @@ title: "Home"
          class="profile-pic">
 
     <div class="about-text">
-      <h1>Hello World! I'm Michael Shoemaker</h1>
-      <p>Senior Data Analyst | Teacher | Content Creator | .5x Programmer</p>
+      <h1>Hello World! I'm John Doe</h1>
+      <p>DS Student</p>
       <p>I build practical, production-like data engineering systems — orchestration, storage, transformations, serving, and observability — then explain the decisions behind them.</p>
-      <p><strong>Core skills:</strong> Python · SQL · Linux · Airflow · Spark · BigQuery · Docker · GCP</p>
+      <p><strong>Core skills:</strong> Python · SQL · Linux · Jupyter · R · SciKit Learn · Docker · GCP</p>
 
       <p class="social-links">
         <a href="https://www.linkedin.com/in/michaelshoemaker1" target="_blank" aria-label="LinkedIn">
