@@ -12,6 +12,5 @@ defaults:
 author: "John Doe"
 github_username: "scalarmikeman"
 youtube_channel: "@dataslinger6379"
-medium_username: "dataslinger"
 exclude:
   - "README.md"
