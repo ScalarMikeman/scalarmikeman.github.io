@@ -1,4 +1,4 @@
-title: "Michael Shoemaker — Data Engineering"
+title: "John Doe — Data Science"
 description: "Production-like data engineering builds, explained clearly."
 baseurl: ""
 url: ""
@@ -9,8 +9,8 @@ defaults:
   - scope: { path: "" }
     values:
       layout: default
-author: "Michael Shoemaker"
-github_username: "MichaelShoemaker"
+author: "John Doe"
+github_username: "scalarmikeman"
 youtube_channel: "@dataslinger6379"
 medium_username: "dataslinger"
 exclude:
